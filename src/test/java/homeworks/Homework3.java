@@ -1,7 +1,6 @@
 package homeworks;
 
 import org.junit.Test;
-import soui.assist.AllureReport;
 import usertypes.Person;
 
 import java.text.SimpleDateFormat;
